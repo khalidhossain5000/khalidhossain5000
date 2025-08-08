@@ -14,7 +14,7 @@ Hi! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourUsername) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khalidhossain5000)[![Facebook](https://img.shields.io/badge/?label=&message=Facebook&color=1877F2&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/YourUsername)[![Email](https://img.shields.io/badge/?label=&message=Email&color=EA4335&style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/01904240740)
 
 
-[![Facebook](https://img.shields.io/badge/?label=&message=Facebook&color=1877F2&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/YourUsername)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/YourUsername)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
