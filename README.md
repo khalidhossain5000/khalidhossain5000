@@ -25,18 +25,11 @@ Hi! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/
 
  
 # 📊 GitHub Stats:
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=khalidhossain5000&theme=highcontrast&hide_border=true" alt="khalidhossain5000's Streak" width="48%" style="height:200px; object-fit: contain;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalidhossain5000&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" alt="khalidhossain5000's Top Languages" width="48%" style="height:200px; object-fit: contain;" />
 </p>
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khalidhossain5000&theme=highcontrast&hide_border=true" alt="khalidhossain5000's Streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalidhossain5000&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" alt="khalidhossain5000's Top Languages" width="48%" />
-</p>
-
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=khalidhossain5000&icon=0&color=0)](https://visitcount.itsvg.in)
