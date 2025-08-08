@@ -31,9 +31,10 @@ Hi! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/
 ![khalidhossain5000's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khalidhossain5000&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
 
 <p align="center">
-  <img src="(https://github-readme-streak-stats.herokuapp.com/?user=khalidhossain5000&theme=highcontrast&hide_border=true)" alt="GitHub Stats" width="45%" />
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=khalidhossain5000&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khalidhossain5000&theme=highcontrast&hide_border=true" alt="khalidhossain5000's Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalidhossain5000&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" alt="khalidhossain5000's Top Languages" width="48%" />
 </p>
+
 
 
 ---
