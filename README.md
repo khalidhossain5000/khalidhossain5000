@@ -4,6 +4,12 @@
 Hi! I’m Khalid Hossain,a Full Stack Web Developer from Bangladesh, specialized in the MERN Stack — MongoDB, Express.js, React, and Node.js.<br><br>I’m passionate about building modern, scalable, and efficient web applications with clean code and beautiful UI/UX.<br><br>I build fast, secure, and user-friendly applications using:<br>- React • Node.js • Express • MongoDB  <br>- Tailwind CSS • Git • REST APIs<br><br>🚀 Let’s connect, collaborate, and build something impactful.<br>
 
 
+## Current Activites :
+
+- Exploring Next.js.
+- Exploring TypeScript.
+- Working On PetShop Full Stack WebSite.
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=61576933233453) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdkhalidhossain5000@gmail.com) 
 
