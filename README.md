@@ -26,7 +26,7 @@ Hi! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/
  
 # 📊 GitHub Stats:
 
-![khalidhossain5000's Streak](https://github-readme-streak-stats.herokuapp.com/?user=khalidhossain5000&theme=vue-dark&hide_border=true) 
+![khalidhossain5000's Streak](https://github-readme-streak-stats.herokuapp.com/?user=khalidhossain5000&theme=highcontrast&hide_border=true)
 
 ![khalidhossain5000's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khalidhossain5000&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
 
