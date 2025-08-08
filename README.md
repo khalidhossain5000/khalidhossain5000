@@ -14,10 +14,10 @@ Hi! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/
 
 # 💻 Skills:
  ## FrontEnd:
- [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark)]
 
  ## BackEnd:
- [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark)]
 
  ## DevOps & Tools:
  [![My Skills](https://skillicons.dev/icons?i=firebase,vite,git,github,netlify,vercel,npm,gitlab,ai,pnpm&theme=dark)](https://skillicons.dev)
