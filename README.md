@@ -13,12 +13,6 @@ Hi! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourUsername) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khalidhossain5000) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61576933233453) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdkhalidhossain5000@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/01904240740)
 
-
-
-
-
-
-
 # 💻 Skills:
  ## FrontEnd:
  ![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark)
@@ -31,6 +25,11 @@ Hi! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/
 
  
 # 📊 GitHub Stats:
+
+![khalidhossain5000's Stats](https://github-readme-stats.vercel.app/api?username=khalidhossain5000&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+
+
 ![](https://github-readme-stats.vercel.app/api?username=khalidhossain5000&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=khalidhossain5000&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=khalidhossain5000&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
