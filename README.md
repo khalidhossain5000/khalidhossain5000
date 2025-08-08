@@ -14,7 +14,7 @@ Hi! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/
 
 # 💻 Skills:
  ## FrontEnd:
- [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark)]
+ ![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark)
 
  ## BackEnd:
  [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark)]
