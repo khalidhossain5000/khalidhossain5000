@@ -1,4 +1,4 @@
-<img src="https://github.com/khalidhossain5000/khalidhossain5000/blob/main/updated-git-banner.png"/>
+<img src="https://github.com/khalidhossain5000/khalidhossain5000/blob/main/github-banner-n.png"/>
 
 # 💫 About Me:
 Hi! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a> I’m Khalid Hossain, a Full Stack Web Developer from Bangladesh, focused on building modern, scalable, and user-friendly web applications.<br><br>
