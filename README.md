@@ -1,12 +1,25 @@
-<img src="https://github.com/khalidhossain5000/khalidhossain5000/blob/main/updated-git-banner.png"/>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1a50ce30-8e63-4cd6-b82e-b0c5fc28ac3c" /><img src="https://github.com/khalidhossain5000/khalidhossain5000/blob/main/updated-git-banner.png"/>
 
 # 💫 About Me:
-Hi! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a>  I’m Khalid Hossain,a Full Stack Web Developer from Bangladesh, specialized in the MERN Stack — MongoDB, Express.js, React, and Node.js.<br><br>I’m passionate about building modern, scalable, and efficient web applications with clean code and beautiful UI/UX.<br><br>I build fast, secure, and user-friendly applications using:<br> - React • NextJs • Node.js • Express • MongoDB  <br>- Tailwind CSS • Git • REST APIs<br><br>🚀 Let’s connect, collaborate, and build something impactful.<br>
+
+Hi! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a>  
+I’m Khalid Hossain, a Full Stack Web Developer from Bangladesh, focused on building modern, scalable, and user-friendly web applications.<br><br>
+
+I enjoy turning ideas into clean, responsive, and high-performance products with strong attention to UI/UX and code quality.<br><br>
+
+### 🚀 Tech Stack:
+- **Frontend:** React, Next.js, Tailwind CSS, HTML, CSS, shadcn/ui  
+- **Backend:** Node.js, Express.js  
+- **Database:** SQL, PostgreSQL, MongoDB, Mongoose  
+- **Tools:** Git, REST APIs, and modern web development workflows<br><br>
+
+I’m passionate about learning, building real-world projects, and improving every day as a developer.<br><br>
+
+🚀 Let’s connect, collaborate, and build something impactful.
 
 ## Current Activites :
 
-- Exploring TypeScript.
-- Working On PetShop Full Stack WebSite.
+- Exploring Prisma.
 
 ## 🌐 Socials:
 
