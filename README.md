@@ -8,7 +8,7 @@ I enjoy turning ideas into clean, responsive, and high-performance products with
 - **Backend:** Node.js, Express.js  
 - **Database:** SQL, PostgreSQL, MongoDB, Mongoose  
 - **Tools:** Git, REST APIs, and modern web development workflows<br><br>
-💡 **I’m passionate about learning, building real-world projects, and improving every day as a developer.** <br> 
+💡 **I’m passionate about learning, building real-world projects, and improving every day as a developer.** <br> <br>
 🚀 Let’s connect, collaborate, and build something impactful.
 
 ## Current Activites :
