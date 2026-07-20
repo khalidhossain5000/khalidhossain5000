@@ -29,7 +29,7 @@ I believe in continuous learning, experimenting with new technologies, and impro
  ![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,mongodb&theme=dark)
 
  ## DevOps & Tools:
- ![My Skills](https://skillicons.dev/icons?i=firebase,vite,git,github,postman,netlify,vercel,npm,gitlab,ai,pnpm&theme=dark)
+ ![My Skills](https://skillicons.dev/icons?i=firebase,vite,git,github,postman,netlify,vercel,npm,gitlab,ai,pnpm&theme=dark) <br/>
 
  
 # 📊 GitHub Stats:
