@@ -36,8 +36,8 @@ I believe in continuous learning, experimenting with new technologies, and impro
 
 <p align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khalidhossain5000&theme=highcontrast&hide_border=true" alt="khalidhossain5000's Streak" width="48%" style="height:200px; object-fit: contain;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalidhossain5000&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" alt="khalidhossain5000's Top Languages" width="48%" style="height:200px; object-fit: contain;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khalidhossain5000&theme=neon&hide_border=true" alt="khalidhossain5000's Streak" width="48%" style="height:200px; object-fit: contain;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalidhossain5000&theme=neon&show_icons=true&hide_border=true&layout=compact" alt="khalidhossain5000's Top Languages" width="48%" style="height:200px; object-fit: contain;" />
 </p>
 
 
