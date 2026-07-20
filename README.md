@@ -23,7 +23,7 @@ I believe in continuous learning, experimenting with new technologies, and impro
 
 # 💻 Skills:
  ## FrontEnd:
- ![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,html,css,,js,tailwind,materialui&theme=dark)
+ ![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,html,css,js,tailwind,materialui&theme=dark)
 
  ## BackEnd:
  ![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,mongodb&theme=dark)
