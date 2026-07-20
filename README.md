@@ -1,19 +1,21 @@
 <img src="https://github.com/khalidhossain5000/khalidhossain5000/blob/main/github-banner-n.png"/>
 
 # 💫 About Me:
-Hi! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a> I’m Khalid Hossain, a Full Stack Web Developer from Bangladesh, focused on building modern, scalable, and user-friendly web applications.<br><br>
-I enjoy turning ideas into clean, responsive, and high-performance products with strong attention to UI/UX and code quality.<br><br>
-### 🚀 Tech Stack:
-- **Frontend:** React, Next.js, Tailwind CSS, HTML, CSS, shadcn/ui  
-- **Backend:** Node.js, Express.js  
-- **Database:** SQL, PostgreSQL, MongoDB, Mongoose  
-- **Tools:** Git, REST APIs, and modern web development workflows<br><br>
-💡 **I’m passionate about learning, building real-world projects, and improving every day as a developer.** <br> <br>
-🚀 Let’s connect, collaborate, and build something impactful.
+Hi! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a> I’m Khalid Hossain, a **Full Stack Web Developer** who enjoys building modern, responsive, and user-focused web applications.<br><br>
+I enjoy turning ideas into real-world products, solving problems through code, and continuously improving my development skills through hands-on projects. I focus on writing clean, maintainable code and creating applications that provide a smooth user experience.
+I believe in continuous learning, experimenting with new technologies, and improving through consistent practice and real-world development.<br><br>
 
-## Current Activites :
+### 🚀 Currently:
 
-- Exploring Prisma.
+- 🔭 Strengthening my **backend development skills** by working with server-side technologies and database-driven applications
+- 🏗️ Building and improving **full-stack projects** to gain practical experience with real-world application development
+- 🌱 Exploring **Next.js App Router,Prisma Orm, TypeScript, and modern development practices**
+- 📚 Learning more about **database design, application architecture, and writing scalable code**
+- 💡 Continuously improving my problem-solving skills through hands-on projects and experimentation
+
+<h3 align="center">
+  🚀 Let's connect, collaborate, and build something impactful together!
+</h3>
 
 ## 🌐 Socials:
 
@@ -21,13 +23,13 @@ I enjoy turning ideas into clean, responsive, and high-performance products with
 
 # 💻 Skills:
  ## FrontEnd:
- ![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark)
+ ![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,html,css,,js,tailwind,materialui&theme=dark)
 
  ## BackEnd:
- ![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark)
+ ![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,mongodb&theme=dark)
 
  ## DevOps & Tools:
- ![My Skills](https://skillicons.dev/icons?i=firebase,vite,git,github,netlify,vercel,npm,gitlab,ai,pnpm&theme=dark)
+ ![My Skills](https://skillicons.dev/icons?i=firebase,vite,git,github,postman,netlify,vercel,npm,gitlab,ai,pnpm&theme=dark)
 
  
 # 📊 GitHub Stats:
